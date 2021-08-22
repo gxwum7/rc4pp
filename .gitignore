@@ -1,6 +1,6 @@
 # exclude all cmake build files
 *.cmake
-*.txt
+CMakeCache.txt
 *.kdev4
 CMakeFiles
 Makefile
