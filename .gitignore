@@ -1,0 +1,8 @@
+# exclude all cmake build files
+*.cmake
+*.txt
+*.kdev4
+CMakeFiles
+Makefile
+build
+compile_commands.json
